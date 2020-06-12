@@ -2,6 +2,8 @@
 
 A notes app that allows users to create and store notes for later. This idea came from [this repository](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Notes-App.md). 
 
+Demo: https://notes-react-app.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## User Stories 
